@@ -345,7 +345,7 @@ def from_arg_or_file(arg, file_path, default=None):
     if arg:
         return [s.strip() for s in arg.split(';')]
     elif file_path:
-        with open(file_path) as f:
+        with open(os.path.expanduser(file_path)) as f:
             return [s.strip() for s in f.readlines() if s.strip()]
     else:
         return default
