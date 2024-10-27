@@ -1,0 +1,5 @@
+diffusers==0.31.0
+Pillow==11.0.0
+torch==2.5.0+cu118
+torchvision==0.20.0+cu118
+tqdm==4.66.5
