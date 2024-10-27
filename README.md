@@ -55,14 +55,10 @@ sd-twist \
     -t flip
 ```
 
-<img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_4f00da0f-4306-4932-9def-bd2f2b2a3394_noflip.jpg?raw=true" width="45%">
-<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_4f00da0f-4306-4932-9def-bd2f2b2a3394_flip.jpg?raw=true" width="45%">
+<img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_4f00da0f-4306-4932-9def-bd2f2b2a3394_noflip.jpg?raw=true" width="40%"> <img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_4f00da0f-4306-4932-9def-bd2f2b2a3394_flip.jpg?raw=true" width="40%">
 
-<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_5cdb54dc-d7ed-4851-86db-6bfad869f66e_noflip.jpg?raw=true" width="45%">
-<img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_5cdb54dc-d7ed-4851-86db-6bfad869f66e_flip.jpg?raw=true" width="45%">
+<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_5cdb54dc-d7ed-4851-86db-6bfad869f66e_noflip.jpg?raw=true" width="40%"> <img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_5cdb54dc-d7ed-4851-86db-6bfad869f66e_flip.jpg?raw=true" width="40%">
 
-<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_7c010e6d-e4d1-4b6c-bc86-246b0f7b5d3e_noflip.jpg?raw=true" width="45%">
-<img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_7c010e6d-e4d1-4b6c-bc86-246b0f7b5d3e_flip.jpg?raw=true" width="45%">
+<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_7c010e6d-e4d1-4b6c-bc86-246b0f7b5d3e_noflip.jpg?raw=true" width="40%"> <img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_7c010e6d-e4d1-4b6c-bc86-246b0f7b5d3e_flip.jpg?raw=true" width="40%">
 
-<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_15c462a1-4c0c-466a-a43d-9795b9c9a9ed_noflip.jpg?raw=true" width="45%">
-<img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_15c462a1-4c0c-466a-a43d-9795b9c9a9ed_flip.jpg?raw=true" width="45%">
+<img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_15c462a1-4c0c-466a-a43d-9795b9c9a9ed_noflip.jpg?raw=true" width="40%"> <img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_15c462a1-4c0c-466a-a43d-9795b9c9a9ed_flip.jpg?raw=true" width="40%">
