@@ -47,13 +47,34 @@ options:
                         "rot90".
 ```
 
+## Usage Examples
+
+You can either specify the style and prompts as flags on the command line:
+
 ```shell
 sd-twist \
+    -s 'watercolor painting, intricate background, mute colors' \
+    -p1 'full body picture of a male, black haired swashbuckler with a mustache and a rapier' \
+    # Use ';' as a separator to define multiple options to try
+    -p2 'profile of a blonde sorceress reading a scroll; a cute blonde sorceress smiling' \
+    -t rot90
+```
+
+Or from files:
+
+```shell
+sd-twist \
+    -n 100 \
     -sf example_prompts/styles.list \
     -p1f example_prompts/prompt1.list \
     -p2f example_prompts/prompt2.list \
     -t flip
 ```
+
+In my experience, about 10% of images are decent enough and variations of the
+prompt can make a huge difference.
+
+## Example Outputs
 
 <img alt="image of a swashbuckler" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_4f00da0f-4306-4932-9def-bd2f2b2a3394_noflip.jpg?raw=true" width="40%"> <img alt="image of a sorceress" src="https://github.com/zombiecalypse/sd-twist/blob/main/examples/sdxl_4f00da0f-4306-4932-9def-bd2f2b2a3394_flip.jpg?raw=true" width="40%">
 
